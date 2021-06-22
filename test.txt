@@ -6,3 +6,4 @@ branch1 test5
 test 6
 test 7
 merged
+test 8

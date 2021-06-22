@@ -6,3 +6,4 @@ branch1 time5
 time 6
 time 7
 merged
+time 8
