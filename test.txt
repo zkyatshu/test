@@ -3,3 +3,4 @@ test 2
 test 3
 branch1 test4
 branch1 test5
+branch1 test6

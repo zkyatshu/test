@@ -3,3 +3,4 @@ time 2
 time 3
 branch1 time4
 branch1 time5
+branch1 time6
